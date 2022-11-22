@@ -16,9 +16,10 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://#/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwind_css.png" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://#/" target="_blank"> <img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
-  
+<a href="https://#/" target="_blank"> <img src="https://img.icons8.com/color/2x/typescript.png" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="40"/> </a> 
+<a href="https://#/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
