@@ -7,8 +7,8 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 
 <h3 align="left">MIS CONOCIMIENTOS</h3>
-<p align="left"><img src="https://user-images.githubusercontent.com/100096337/203410186-d75d1cb7-2731-431a-b079-4cf1671de7a1.png
-" alt="html" width="40" height="40"/></P>
+<img src="https://user-images.githubusercontent.com/100096337/203410186-d75d1cb7-2731-431a-b079-4cf1671de7a1.png
+" alt="html" width="40" height="40"/>
 
 
 📫 ¿Quieres contactarme?
