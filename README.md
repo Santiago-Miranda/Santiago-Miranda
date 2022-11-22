@@ -21,7 +21,6 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 
 📫 ¿Quieres contactarme?
-
 Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/">linkedin</a>
   
   
