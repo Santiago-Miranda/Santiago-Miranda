@@ -23,4 +23,6 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/">linkedin</a>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
 <p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p>
