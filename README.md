@@ -26,8 +26,9 @@ Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com 
   
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  
-<p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Miranda&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Santiago-Miranda&icon=0&color=0)](https://visitcount.itsvg.in)
