@@ -7,7 +7,8 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 
 <h3 align="left">MIS CONOCIMIENTOS</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.flaticon.es/icono-gratis/html-5_3291670?term=html5&page=1&position=5&page=1&position=5&related_id=3291670&origin=search" alt="html" width="40" height="40"/> </a> 
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/100096337/203410186-d75d1cb7-2731-431a-b079-4cf1671de7a1.png)
+" alt="html" width="40" height="40"/> </a> 
 
 
 📫 ¿Quieres contactarme?
