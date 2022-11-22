@@ -5,6 +5,7 @@
 <b>Soy Argentino, tengo 24 años recién graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarrolló full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir ampliando mis conocimientos en este maravilloso mundo de la programación.<br>
 Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me desenvuelvo muy bien trabajando en equipo, ya que me gusta mucho cooperar y es la mejor manera de aprender como también compartir el conocimiento adquirido.</b> 
 
+
 <h3 align="left">MIS CONOCIMIENTOS</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
@@ -23,6 +24,10 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/">linkedin</a>
   
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   
 <p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p>
