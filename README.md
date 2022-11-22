@@ -26,7 +26,8 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-📫 ¿Quieres contactarme?
+  📫 <b>¿Quieres contactarme?</b>
+  
 Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/">linkedin</a>
   
   
