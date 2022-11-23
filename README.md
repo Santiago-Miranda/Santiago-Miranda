@@ -7,7 +7,7 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
 
 <h3 align="left">MIS CONOCIMIENTOS</h3>
- <h5>|| Html || Css || Javascript || React || Redux || React Native || Tailwind || Bootstrap || Typescript || Node || Express || Sequelize || Postgress || MongoDB || Postman || Git ||</h5><br/><br/>
+ <h5>|| Html || Css || Javascript || React || Redux || React Native || Tailwind || Bootstrap || Typescript || Node || Express || Sequelize || Postgress || MongoDB || Postman || Git ||</h5><br/>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -26,6 +26,7 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br/><br/>
+ 
   📫 <b>¿Quieres contactarme?</b>
   
 Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.com</b> o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/"><b>linkedin</b></a>
