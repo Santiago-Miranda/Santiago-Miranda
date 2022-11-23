@@ -28,7 +28,7 @@ Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me de
 
   📫 <b>¿Quieres contactarme?</b>
   
-Puedes contactarme a traves de mi correo electrónico santymiranda101@gmail.com o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/">linkedin</a>
+Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.com</b> o enviarme un mensaje en mi perfil de <a href="https://www.linkedin.com/in/santiago-miranda-815739207/"><b>linkedin</b></a>
   
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
