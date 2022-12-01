@@ -33,7 +33,7 @@ Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.c
 </b>
 <br/><br/>
   
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   
 ![](https://github-readme-stats.vercel.app/api?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
