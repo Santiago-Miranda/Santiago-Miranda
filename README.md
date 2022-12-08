@@ -42,6 +42,9 @@ Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Miranda&theme=radical&hide_border=false)<br/>
   
     
-<p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p><br/><br/>
+ 
+ 
+ ![Snake animation](https://github.com/Santiago-Miranda/Santiago-Miranda/blob/output/github-contribution-grid-snake.svg)
 
 
