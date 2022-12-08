@@ -46,5 +46,7 @@ Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.c
  
  
  ![Snake animation](https://github.com/Santiago-Miranda/Santiago-Miranda/blob/output/github-contribution-grid-snake.svg)
+ 
+ ---
 
 
