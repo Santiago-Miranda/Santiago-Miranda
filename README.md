@@ -2,8 +2,8 @@
 
 <h3 align="center">¡BIENVENIDO A MI PERFIL! 😃</h3>
 
-<b>Soy Argentino, tengo 24 años recién graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarrolló full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir ampliando mis conocimientos en este maravilloso mundo de la programación.<br>
-Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me desenvuelvo muy bien trabajando en equipo, ya que me gusta mucho cooperar y es la mejor manera de aprender como también compartir el conocimiento adquirido.</b> 
+<b>Soy Argentino, tengo 24 años, aprendi programación de manera autodidacta y con cursos de OpenBootcamp, Platzi, Udemy, Freecodecamp, YouTube, tambien me gradue del bootcamp Soy Henry, actualmente estoy enfocado en el desarrolló full stack, mas orientadohacia el frontend, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir ampliando mis conocimientos en este maravilloso mundo de la programación.<br>
+Me consideró una persona con pensamiento lógico, autodidacta y dedicado. Me desenvuelvo muy bien trabajando en equipo, ya que me gusta mucho cooperar y considero que es la mejor manera de aprender, como también compartir el conocimiento adquirido.</b> 
 
 
 <h3 align="left">MIS CONOCIMIENTOS</h3>
