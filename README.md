@@ -45,11 +45,11 @@ Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.c
 <p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p><br/><br/>
  
  
- <h2 align="center">Proyectos relizados</h2>
+ <h2 align="center">Proyectos realizados</h2>
  <br>
-<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721077/moc_2_kqssyu.png" alt="pc" width="320" height="240"/>
-<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721075/moc_1_bzmcph.png" alt="laptop" width="320" height="240"/>
-<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721076/moc_3_ccdeqt.png" alt="tablet" width="320" height="240"/>
-<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721073/moc_4_ntygze.jpg" alt="movil" width="320" height="240"/> 
+<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721077/moc_2_kqssyu.png" alt="" width="320" height="240"/>
+<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721075/moc_1_bzmcph.png" alt="" width="320" height="240"/>
+<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721076/moc_3_ccdeqt.png" alt="" width="320" height="240"/>
+<img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721073/moc_4_ntygze.jpg" alt="" width="320" height="240"/> 
 
 
