@@ -45,7 +45,7 @@ Puedes contactarme a traves de mi correo electrónico <b>santymiranda101@gmail.c
 <p align="center"><img src="https://profile-counter.glitch.me/{Santiago-Miranda}/count.svg" alt="Santiago-Miranda :: Visitor's Count" /></p><br/><br/>
  
  
- <h2>Agunos proyectos relizados</h2>
+ <h2 align="center">Proyectos relizados</h2>
  <br>
 <img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721077/moc_2_kqssyu.png" alt="pc" width="320" height="240"/>
 <img src="https://res.cloudinary.com/dr1abzs6h/image/upload/v1675721075/moc_1_bzmcph.png" alt="laptop" width="320" height="240"/>
