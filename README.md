@@ -31,9 +31,9 @@ I possess logical thinking, I am self-taught and dedicated. I do very well worki
 <br/><br/>
  
 <h2 align="center">📫<b>Do you want to contact me?</b></h2><br/>
-<b>
+<p align="center"><b>
  You can contact me through my email <b>santymiranda101@gmail.com</b> or send me a message in my <a href="https://www.linkedin.com/in/santiagomiranda0/"><b>linkedin</b></a>
-</b>
+ </b></p>
 <br/><br/>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Miranda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
