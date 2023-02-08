@@ -6,7 +6,7 @@
 I possess logical thinking, I am self-taught and dedicated. I do very well working as a team, as I really like to cooperate and learn from others.</b> 
 
 
-<h3 align="left">Skills and frameworks</h3>
+<h3 align="center">Skills and frameworks</h3>
  <h5>| Html | Css | Javascript | React | Redux | React Native | jQuery | Tailwind | Bootstrap | Typescript | Node | Express | Sequelize | Postgress | MongoDB | Python | django | Postman | Git |</h5><br/>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/></a>
@@ -30,7 +30,7 @@ I possess logical thinking, I am self-taught and dedicated. I do very well worki
 <a href="https://#/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br/><br/>
  
-  📫 <b>Do you want to contact me?</b><br/>
+  📫 <b align="center">Do you want to contact me?</b><br/>
 <b>
  You can contact me through my email <b>santymiranda101@gmail.com</b> or send me a message in my <a href="https://www.linkedin.com/in/santiagomiranda0/"><b>linkedin</b></a>
 </b>
