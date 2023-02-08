@@ -30,7 +30,7 @@ I possess logical thinking, I am self-taught and dedicated. I do very well worki
 <a href="https://#/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br/><br/>
  
- 📫 <h2 align="center"><b>Do you want to contact me?</b></h2><br/>
+<h2 align="center">📫<b>Do you want to contact me?</b></h2><br/>
 <b>
  You can contact me through my email <b>santymiranda101@gmail.com</b> or send me a message in my <a href="https://www.linkedin.com/in/santiagomiranda0/"><b>linkedin</b></a>
 </b>
